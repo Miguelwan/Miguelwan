@@ -1,6 +1,16 @@
 ### Hi there 👋
 
+
+<div>
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic
+https://img.shields.io/badge/Researchgate-9cf?logo=researchgate&logoColor=white&style=plastic
+https://img.shields.io/badge/ORCID-green?logo=ORCID&logoColor=white&style=plastic
+https://img.shields.io/badge/arXiv-red?logo=arxiv&logoColor=white&style=plastic
+https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=plastic
+</div>
+
 <!--
+
 **Miguelwan/Miguelwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
