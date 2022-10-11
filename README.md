@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/GitHub-white?logo=GitHub&logoColor=black&style=plastic" alt="GitHub Badge"/>
 </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Miguelwan&style=flat-square&color=blue" alt=""/>
 
 <!--
 
