@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!-- 
+### Hi there 👋
 <img srcc="" width="100"/>
 -->
 
@@ -22,13 +23,13 @@
   <img src="https://img.shields.io/badge/GitHub-white?logo=GitHub&logoColor=black&style=plastic" alt="GitHub Badge"/>
 </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Miguelwan&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 ---
 
 ### :space_invader: Technologies 
-<div>
+<div align="center">
 
   - :art: Front-end:
   
@@ -70,11 +71,17 @@
 
 ---
 
-### :zap: Stats :
+### :zap: Stats 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&hide_border=false&border_radius=8&background=000000)](https://git.io/streak-stats)&nbsp;
+<div id="Stats" align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&hide_border=false&border_radius=8&background=000000)](https://git.io/streak-stats)
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<div id="Fotter" align="center">
+<img src="https://img.shields.io/badge/LinkedIn-green&style=plastic" alt="MiguelMath"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Miguelwan&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 
