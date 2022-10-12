@@ -29,7 +29,7 @@
 ---
 
 ### :space_invader: Technologies 
-<div align="center">
+<div>
 
   - :art: Front-end:
   
@@ -73,11 +73,11 @@
 
 ### :zap: Stats 
 
-<div id="Stats" align="center">
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&hide_border=false&border_radius=8&background=000000)](https://git.io/streak-stats)
   [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
+
 
 <div id="Fotter" align="center">
   <a href="https://www.miguelmath.com">
