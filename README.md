@@ -73,7 +73,7 @@
 ### :zap: Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)&nbsp;
-jkfjhfljhf
+[![Top Lang](https://github-readme-stats.vercel.app/api/toplangs/?username=Miguelwan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
