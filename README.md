@@ -20,7 +20,7 @@
     <a href="https://arxiv.org/search/math?query=Moreno%2C+Miguel&searchtype=author&abstracts=show&order=-announced_date_first&size=50">
       <img src="https://img.shields.io/badge/arXiv-red?logo=arXiv&logoColor=white&style=plastic" alt="arXiv Badge"/>
     </a>
-    <a href="[https://orcid.org/0000-0001-5180-2327](https://github.com/Miguelwan?tab=repositories)">
+    <a href="https://github.com/Miguelwan?tab=repositories">
      <img src="https://img.shields.io/badge/GitHub-white?logo=GitHub&logoColor=black&style=plastic" alt="GitHub Badge"/>
     </a>
   </div>
