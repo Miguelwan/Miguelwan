@@ -35,8 +35,10 @@
   - :art: Front-end:
   
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/HTML">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/CSS">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
   
   - :bar_chart: Data Science :
   
