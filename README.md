@@ -6,7 +6,7 @@
 -->
 
 <div id="header" align="center">
-  <h2>Miguel Moreno Ph.D.</h2>
+  <h1>Miguel Moreno Ph.D.</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/miguel-math/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
