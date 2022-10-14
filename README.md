@@ -76,9 +76,8 @@
 <div align="center">
 
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&border_radius=8&count_private=true)](https://git.io/streak-stats)
-  
-  [![Top Lang](https://github-readme-stats.vercel.app/api?username=Miguelwan&theme=tokyonight&border_radius=8&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&border_radius=8&count_private=true&card_width=300)](https://git.io/streak-stats)
+  [![Top Lang](https://github-readme-stats.vercel.app/api?username=Miguelwan&theme=tokyonight&border_radius=8&count_private=true&show_icons=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
