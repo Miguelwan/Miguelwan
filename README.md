@@ -66,7 +66,8 @@
 
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&hide_border=false&border_radius=8&background=000000)](https://git.io/streak-stats)
-  [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Lang](https://github-readme-stats.vercel.app/api?username=Miguelwan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
