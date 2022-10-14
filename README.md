@@ -60,15 +60,23 @@
   
 </div>
 
+  [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+  
 ---
 
 ### :zap: Stats 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Miguelwan&theme=tokyonight&border_radius=8&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&border_radius=8&count_private=true" />
+</a>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&hide_border=false&border_radius=8&background=000000)](https://git.io/streak-stats)
-  [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Lang](https://github-readme-stats.vercel.app/api?username=Miguelwan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&border_radius=8&count_private=true)](https://git.io/streak-stats)
   
+  [![Top Lang](https://github-readme-stats.vercel.app/api?username=Miguelwan&theme=tokyonight&border_radius=8&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <div id="Fotter" align="center">
@@ -77,6 +85,8 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Miguelwan&style=flat-square&color=blue" alt=""/>
 </div>
+
+
 
 <!--
 
