@@ -29,7 +29,7 @@
 
 ---
 
-### :space_invader: Technologies 
+### 🛠️ Technologies and Tools
 <div>
 
   - :art: Front-end : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/HTML">
