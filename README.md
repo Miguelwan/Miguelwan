@@ -78,8 +78,8 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&border_radius=8&count_private=true&card_width=300)](https://git.io/streak-stats)
   
-  [![Top Lang](https://github-readme-stats.vercel.app/api?username=Miguelwan&theme=tokyonight&border_radius=8&count_private=true&show_icons=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
-    [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Lang](https://github-readme-stats.vercel.app/api?username=Miguelwan&theme=tokyonight&border_radius=8&count_private=true&show_icons=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
