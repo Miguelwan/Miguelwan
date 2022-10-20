@@ -20,6 +20,9 @@
     <a href="https://arxiv.org/search/math?query=Moreno%2C+Miguel&searchtype=author&abstracts=show&order=-announced_date_first&size=50">
       <img src="https://img.shields.io/badge/arXiv-red?logo=arXiv&logoColor=white&style=plastic" alt="arXiv Badge"/>
     </a>
+    <a href="https://scholar.google.at/citations?user=MKz1YWcAAAAJ&hl=en">
+      <img src="https://img.shields.io/badge/Scholar-lightgrey?logo=Google&logoColor=blue&style=plastic" alt="G-Scholar Badge"/>
+    </a>
     <a href="https://github.com/Miguelwan?tab=repositories">
      <img src="https://img.shields.io/badge/GitHub-white?logo=GitHub&logoColor=black&style=plastic" alt="GitHub Badge"/>
     </a>
