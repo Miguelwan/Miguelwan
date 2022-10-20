@@ -47,6 +47,10 @@
   - :book: Documentation : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Markdown">
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/LaTeX">
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,html,css,python,R)](https://github.com/anuraghazra/github-readme-stats)</p>
+    
+  - :rocket: Workflow : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Git">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/GitHub">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=)](https://github.com/anuraghazra/github-readme-stats)</p>
   
   - :seedling: Envionments : &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Project_Jupyter">
@@ -54,9 +58,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="Rstudio" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/></a>
   
-  - :rocket: Workflow : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Git">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/GitHub">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=)](https://github.com/anuraghazra/github-readme-stats)</p>
+
   
 </div>
 
