@@ -85,6 +85,7 @@
 
 </div>
 
+---
 
 <div id="Fotter" align="center">
   <a href="https://www.miguelmath.com">
