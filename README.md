@@ -38,7 +38,7 @@
 
   - :art: Front-end : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/HTML">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/CSS">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,python,R,Markdown,tex&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,python,R,Markdown,tex,JavaScript&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
   
   - :bar_chart: Data Science : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/R_(programming_language)">
@@ -46,11 +46,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/NumPy">
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Pandas_(software)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/PyTorch">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,html,css,JS,Markdown,tex&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,html,css,JavaScript,Markdown,tex&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
   
   - :book: Documentation : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Markdown">
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/LaTeX">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,html,css,python,R,JS&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,html,css,python,R,JavaScript&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
     
   - :rocket: Workflow : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Git">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/GitHub">
