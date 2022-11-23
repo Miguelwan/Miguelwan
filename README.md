@@ -38,7 +38,7 @@
 
   - :art: Front-end : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/HTML">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/CSS">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats-nu-six-63.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,python,R,Markdown,tex,JavaScript&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats-miguelwan.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,python,R,Markdown,tex,JavaScript&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
   
   - :bar_chart: Data Science : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/R_(programming_language)">
