@@ -38,7 +38,7 @@
 
   - :art: Front-end : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/HTML">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/CSS">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats-miguelwan.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,python,R,Markdown,tex,JavaScript&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,python,R,Markdown,tex,JavaScript&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
   
   - :bar_chart: Data Science : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/R_(programming_language)">
@@ -46,15 +46,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/NumPy">
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Pandas_(software)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/PyTorch">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats-miguelwan.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,html,css,JavaScript,Markdown,tex&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,html,css,JavaScript,Markdown,tex&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
   
   - :book: Documentation : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Markdown">
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/LaTeX">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats-miguelwan.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,html,css,python,R,JavaScript&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&hide=jupyter%20notebook,html,css,python,R,JavaScript&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
     
   - :rocket: Workflow : &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Git">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/GitHub">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats-miguelwan.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;<p align="center">[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelwan&layout=compact&theme=tokyonight&border_radius=8&langs_count=9&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</p>
   
   - :seedling: Envionments : &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Project_Jupyter">
@@ -80,7 +80,7 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelwan&theme=tokyonight&border_radius=8&count_private=true&card_width=300)](https://git.io/streak-stats)
   
-  [![Top Lang](https://github-readme-stats-miguelwan.vercel.app/api?username=Miguelwan&theme=tokyonight&border_radius=8&count_private=true&show_icons=true&card_width=500&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Lang](https://github-readme-stats.vercel.app/api?username=Miguelwan&theme=tokyonight&border_radius=8&count_private=true&show_icons=true&card_width=500&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
