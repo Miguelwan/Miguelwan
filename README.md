@@ -14,7 +14,7 @@
     <a href="https://www.researchgate.net/profile/Miguel-Moreno-34">
       <img src="https://img.shields.io/badge/ResearchGate-9cf?logo=ResearchGate&logoColor=white&style=plastic" alt="ResearchGate Badge"/>
     </a>
-    <a href="https://arxiv.org/search/math?query=Moreno%2C+Miguel&searchtype=author&abstracts=show&order=-announced_date_first&size=50">
+    <a href="https://arxiv.org/a/0000-0001-5180-2327.html">
       <img src="https://img.shields.io/badge/arXiv-red?logo=arXiv&logoColor=white&style=plastic" alt="arXiv Badge"/>
     </a>
     <br>
