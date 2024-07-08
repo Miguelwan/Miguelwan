@@ -7,6 +7,10 @@
 
 <div id="header" align="center">
   <h1>Miguel Moreno Ph.D.</h1>
+
+  Mathematician and Certified Data Scientist with expertise in machine learning.
+
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/miguel-math/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
